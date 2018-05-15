@@ -43,7 +43,7 @@
 			
 			<tr bgcolor="#FFFFFF" align="center">
 				<td><s:property value="no"/></td>
-				<td align="left">&nbsp;<s:a href="%{viewURL}"><s:property value="subject"/></s:a></td>
+				<td align="center">&nbsp;<s:a href="%{viewURL}"><s:property value="subject"/></s:a></td>
 				<td align="center"><s:property value="name"/></td>
 				<td align="center"><s:property value="regdate"/></td>
 				<td><s:property value="readhit"/></td>
