@@ -109,4 +109,14 @@ public class listAction extends ActionSupport{
  * 					pagingHtml
  * boardList.jsp
  * 
+ * 
+ * queryForObject 데이터 한줄을꺼내서 resultClass라는 자바빈으로 보낸다.
+ * ==> resultClass에서 데이터를 꺼내서 쓰면됨
+ * 
+ * resultClass를 가져다 jsp에서 사용
+ * <script type="text/javascript">
+		function open_win_noresizable (url, name) { ===========name은 창이름============== 수정 삭제에서 창이름 지정
+			var oWin = window.open(url, name, "scrollbars=no,status=no,resizable=no,width=300,height=150");
+		}
+	</script>
 */
