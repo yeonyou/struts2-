@@ -104,3 +104,9 @@ public class listAction extends ActionSupport{
 	
 
 }
+/*listAction ===> execute() <=== selectAll
+ * 					list
+ * 					pagingHtml
+ * boardList.jsp
+ * 
+*/

@@ -30,7 +30,7 @@
 		<tr bgcolor="#777777">
 			<td height="1" colspan="5"></td>
 		</tr>
-		
+		<!-- viewURLº¯¼ö¸í -->
 		<s:iterator value="list" status="stat">
 			<s:url id="viewURL" action="viewAction">
 				<s:param name="no">
